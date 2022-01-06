@@ -11,7 +11,7 @@ root.geometry('500x300')
 root.resizable(0,0)
 root.title("Youtube Video Downloader :)")
 
-Label(root,text = 'Youtube Video Downloader', font = 'arial 21 bold').pack()
+Label(root,text = 'Youtube Video Downloader', font = 'arial 20 bold').pack()
 
 link = StringVar()
 
